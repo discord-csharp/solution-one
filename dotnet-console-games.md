@@ -31,7 +31,7 @@ Developers are encouraged to play the game examples and then try to code the gam
 > 2. play the web version of the 
 > 3. download the binaries included in the repo
 
-Except for Snake and Tetris, most console games you will find on GitHub tend to be turn-based, so I want to highlight a few games in the repo that are **not** turn-based:
+There are numerous Snake and Tetris console games on GitHub, but aside from Snake and Tetris clones most console games you will find on GitHub tend to be turn-based. So, I want to highlight a few games in the repo that are **not** turn-based:
 - [Quick Draw](https://github.com/ZacharyPatten/dotnet-console-games/tree/main/Projects/Quick%20Draw) _reaction time_
 - [Tug Of War](https://github.com/ZacharyPatten/dotnet-console-games/blob/main/Projects/Tug%20Of%20War) _button masher_
 - [Whack A Mole](https://github.com/ZacharyPatten/dotnet-console-games/blob/main/Projects/Whack%20A%20Mole) _reaction time (random buttons)_
