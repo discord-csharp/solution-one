@@ -38,7 +38,7 @@ There are numerous Snake and Tetris console games on GitHub, but aside from Snak
 - [Rythm](https://github.com/ZacharyPatten/dotnet-console-games/blob/main/Projects/Rythm) _timed button presses_
 - [Drive](https://github.com/ZacharyPatten/dotnet-console-games/blob/main/Projects/Drive) _top-to-bottom scrolling map_
 - [Helicopter](https://github.com/ZacharyPatten/dotnet-console-games/blob/main/Projects/Helicopter) _right-to-left scrolling shooter_
-- [Bound](https://github.com/ZacharyPatten/dotnet-console-games/blob/main/Projects/Bound) _dodge the obtacles_
+- [Bound](https://github.com/ZacharyPatten/dotnet-console-games/blob/main/Projects/Bound) _dodge the obstacles_
 - [Duck Hunt](https://github.com/ZacharyPatten/dotnet-console-games/blob/main/Projects/Duck%20Hunt) _first person target shooting_
 - [PacMan](https://github.com/ZacharyPatten/dotnet-console-games/blob/main/Projects/PacMan) _...pacman_
 
