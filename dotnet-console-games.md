@@ -1,4 +1,4 @@
-> This is an abstract of a potential presentation to give durign the "Solution 1" event to be held by the C# discord.
+> This is an abstract of a potential presentation to give during the "Solution 1" event to be held by the C# discord.
 
 # Introduction
 
