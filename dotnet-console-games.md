@@ -68,7 +68,7 @@ Is there a better way than my approach? Probably. :D But it is working pretty de
 
 Just remember that all of the games were coded by developers in their free time. The purpose of the repository is to provide project ideas; **not tell people how to code**. If you code any of the games yourself and end up with very different code from the repository, that is great. :)
 
-Please share this repo with other beginner developers you think could learn from it.
+Please share this repo with other beginner developers you think could learn from it, or if you know any teachers looking for fun assignment ideas.
 
 I hope this taught you something interesting about the console, GitHub repos, Blazor WebAssembly, etc. Thank you for your time.
 
