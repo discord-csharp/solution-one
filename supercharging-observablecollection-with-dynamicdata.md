@@ -1,0 +1,3 @@
+# Supercharging ObservableCollection with DynamicData
+
+To be determined...
